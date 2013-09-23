@@ -24,7 +24,7 @@
     "utile":"*"
   },
   "devDependencies":{
-    "vows":"0.8.2"
+    "vows":"latest"
   },
   "licenses":[{
     "type":"MIT"
